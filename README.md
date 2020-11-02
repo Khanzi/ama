@@ -1,5 +1,6 @@
 # Ask me anything
 
 ![]()
-<input type="button" onclick="window.location.href='https://github.com/Khanzi/ama/issues';" value="See Questions" />
-<input type="button" onclick="window.location.href='https://github.com/Khanzi/ama/issues/new/choose';" value="Ask a Question!" />
+<p align="center">
+  <kbd><a href="../../issues/new">Ask a question</a></kbd> <kbd><a href="../../issues?q=is%3Aissue+is%3Aclosed">Read questions</a></kbd>
+</p>
